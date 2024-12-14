@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "industrial_age:hammer"
+    },
+    "%": {
+      "item": "industrial_age:file"
+    },
+    "@": {
+      "item": "industrial_age:iron_sheet"
+    }
+  },
+  "pattern": [
+    "$%@",
+    " @ ",
+    "#  "
+  ],
+  "result": {
+    "item": "industrial_age:saw"
+  },
+  "show_notification": true
+}

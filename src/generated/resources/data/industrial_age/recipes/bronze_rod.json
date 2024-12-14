@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "industrial_age:hammer"
+    },
+    "@": {
+      "item": "industrial_age:bronze_rod"
+    }
+  },
+  "pattern": [
+    "# @",
+    " @ ",
+    "@  "
+  ],
+  "result": {
+    "item": "industrial_age:bronze_rod"
+  },
+  "show_notification": true
+}

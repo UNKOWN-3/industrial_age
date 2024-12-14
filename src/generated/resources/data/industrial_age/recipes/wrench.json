@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "$": {
+      "item": "minecraft:stick"
+    },
+    "%": {
+      "item": "industrial_age:iron_sheet"
+    },
+    "&": {
+      "item": "industrial_age:file"
+    },
+    "@": {
+      "item": "industrial_age:hammer"
+    }
+  },
+  "pattern": [
+    "@&#",
+    " % ",
+    "$  "
+  ],
+  "result": {
+    "item": "industrial_age:wrench"
+  },
+  "show_notification": true
+}

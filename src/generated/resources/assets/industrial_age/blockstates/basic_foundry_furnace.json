@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "industrial_age:block/basic_foundry_furnace"
+    }
+  }
+}

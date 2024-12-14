@@ -1,0 +1,9 @@
+// 1.20.1	2024-12-05T17:06:30.880705	Tags for minecraft:block mod id industrial_age
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/axe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/hoe.json
+857173d407802ada99f59799a1eae50064d1b3bb data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/shovel.json
+81856e7cf5db4334bfd2acc7e07b8f9dcf58819d data/minecraft/tags/blocks/needs_diamond_tool.json
+df8bea55a98333e3946ed0631186744005fdb8bf data/minecraft/tags/blocks/needs_iron_tool.json
+c05ceeb8caa44a7d9d17c832b82e8dfda38c279a data/minecraft/tags/blocks/needs_stone_tool.json

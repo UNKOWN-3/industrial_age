@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "industrial_age:tin_gear"
+    },
+    "$": {
+      "item": "industrial_age:iron_shaft"
+    },
+    "%": {
+      "item": "minecraft:furnace"
+    },
+    "&": {
+      "item": "industrial_age:iron_plating"
+    },
+    "@": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "pattern": [
+    "#$#",
+    "&%&",
+    "&@&"
+  ],
+  "result": {
+    "item": "industrial_age:basic_jaw_crusher"
+  },
+  "show_notification": true
+}

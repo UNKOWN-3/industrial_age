@@ -1,0 +1,15 @@
+{
+  "values": [
+    "industrial_age:zinc_ore",
+    "industrial_age:tin_ore",
+    "industrial_age:titanomagnetite_ore",
+    "industrial_age:rutile_ore",
+    "industrial_age:lead_ore",
+    "industrial_age:dolomite_ore",
+    "industrial_age:zinc_block",
+    "industrial_age:tin_block",
+    "industrial_age:titanium_block",
+    "industrial_age:lead_block",
+    "industrial_age:magnesium_block"
+  ]
+}

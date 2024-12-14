@@ -1,0 +1,12 @@
+{
+  "type": "industrial_age:basic_jaw_crushing",
+  "ingredients": [
+    {
+      "count": 2,
+      "item": "industrial_age:raw_tin"
+    }
+  ],
+  "output": {
+    "item": "industrial_age:crushed_tin"
+  }
+}

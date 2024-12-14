@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "industrial_age:hammer"
+    },
+    "$": {
+      "item": "industrial_age:file"
+    },
+    "@": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "#@$",
+    "@ @",
+    " @ "
+  ],
+  "result": {
+    "item": "industrial_age:iron_gear"
+  },
+  "show_notification": true
+}
